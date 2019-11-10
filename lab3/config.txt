@@ -1,0 +1,4 @@
+java -cp target/classes hr.fer.nenr.lab3.Controller
+1
+20
+10
